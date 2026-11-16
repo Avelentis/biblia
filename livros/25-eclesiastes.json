@@ -1,0 +1,966 @@
+{
+ "titulo": "Bíblia Sagrada",
+ "traducao": "Padre Manuel de Matos Soares",
+ "edicao": "1956",
+ "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "licenca": "CC BY 4.0",
+ "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
+ "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
+ "url": "https://github.com/Avelentis/biblia",
+ "id": "ecl",
+ "ordem": 25,
+ "nome": "Eclesiastes",
+ "abreviatura": "Ecl",
+ "testamento": "AT",
+ "grupo": "Livros poéticos e sapienciais",
+ "capitulos": [
+  {
+   "capitulo": 1,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Palavras do Eclesiaste, filho de Davide, rei de Jerusalém."
+    },
+    {
+     "n": 2,
+     "texto": "Vaidade de vaidades, diz o Eclesiaste, vaidade de vaidade, tudo é vaidade!"
+    },
+    {
+     "n": 3,
+     "texto": "Que proveito tira o homem de todo o trabalho com que se afadiga debaixo do sol?"
+    },
+    {
+     "n": 4,
+     "texto": "Uma geração passa, outra geração lhe sucede, mas a terra permanece sempre estável."
+    },
+    {
+     "n": 5,
+     "texto": "O sol nasce e põe-se, corre ao seu lugar, donde volta a nascer."
+    },
+    {
+     "n": 6,
+     "texto": "O vento dirige o seu giro para o meio-dia, depois declina para o norte; corre, visitando tudo em roda, e volta a começar (depois) os seus circuitos."
+    },
+    {
+     "n": 7,
+     "texto": "Todos os rios entram no mar, e o mar nem por isso trasborda; os rios voltam ao mesmo lugar donde saíram, para tornarem a correr."
+    },
+    {
+     "n": 8,
+     "texto": "Todas as coisas se afadigam, mais do que se pode dizer. O olho não se farta de ver, nem o ouvido se cansa de ouvir (sempre as mesmas coisas)."
+    },
+    {
+     "n": 9,
+     "texto": "Que é o que foi? O mesmo que há-de ser. Que é o que se fez? O mesmo que se há-de fazer."
+    },
+    {
+     "n": 10,
+     "texto": "Não há nada novo debaixo do sol, e ninguém pode dizer; Eis aqui está uma coisa nova, porque ela já existiu nos séculos que passaram antes de nós."
+    },
+    {
+     "n": 11,
+     "texto": "Não há memória das coisas antigas, mas também não haverá memória das coisas que hão-de suceder depois de nós, entre aqueles que viverão mais tarde."
+    },
+    {
+     "n": 12,
+     "texto": "Eu, o Eclesiaste, fui rei de Israel em Jerusalém,"
+    },
+    {
+     "n": 13,
+     "texto": "e propus no meu coração inquirir e investigar sabiamente todas as coisas que se fazem debaixo dos céus: Deus deu esta penosa ocupação aos filhos dos homens, para que se dedicassem a ela."
+    },
+    {
+     "n": 14,
+     "texto": "Vi tudo o que se faz debaixo do sol, e achei que tudo era vaidade e a aflição de espírito."
+    },
+    {
+     "n": 15,
+     "texto": "O torto não se pode endireitar e o que falta não se pode contar."
+    },
+    {
+     "n": 16,
+     "texto": "Eu disse no meu coração: Eis que cheguei a ser grande, que excedi em sabedoria a todos os que antes de mim houve em Jerusalém; o meu espírito possuiu largamente a sabedoria e a ciência."
+    },
+    {
+     "n": 17,
+     "texto": "Apliquei o meu coração a conhecer a sabedoria, a loucura, os desvarios, e reconheci que ainda isto é aflição de espírito,"
+    },
+    {
+     "n": 18,
+     "texto": "porque na muita sabedoria há muita amargura, e o que aumenta a sua ciência, também aumenta o seu sofrimento."
+    }
+   ]
+  },
+  {
+   "capitulo": 2,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Então eu disse no meu coração: Vamos! Tentemos a alegria, gozemos o prazer. Mas vi que também isto era vaidade."
+    },
+    {
+     "n": 2,
+     "texto": "Por isso disse ao riso: És um louco! e à alegria; De que serves?"
+    },
+    {
+     "n": 3,
+     "texto": "(Em seguida) resolvi dentro no meu coração entregar ao vinho a minha carne, aplicando ainda o meu ânimo à sabedoria; (resolvi) dar-me (dentro de certos limites) à loucura, até ver que coisa seria útil aos filhos dos homens, em que ocupação devem eles empregar-se debaixo dos céus durante os dias da sua vida."
+    },
+    {
+     "n": 4,
+     "texto": "Executei grandes obras, edifiquei para mim casas e plantei vinhas;"
+    },
+    {
+     "n": 5,
+     "texto": "fiz jardins e pomares, e pus neles árvores de toda a espécie;"
+    },
+    {
+     "n": 6,
+     "texto": "construí depósitos de águas para regar o bosque em que cresciam as árvores;"
+    },
+    {
+     "n": 7,
+     "texto": "comprei escravos e escravas, e tive muita família; tive multo gado, manadas de bois e rebanhos de ovelhas, mais do que todos os que houve antes de mim em Jerusalém."
+    },
+    {
+     "n": 8,
+     "texto": "Amontoei prata e ouro, riquezas de reis e de províncias. (Para me deleitarem os ouvidos) escolhi cantores e cantoras, e tudo o que faz as delícias dos filhos dos homens, taças e jarros (preciosos) para o serviço do vinho."
+    },
+    {
+     "n": 9,
+     "texto": "Ultrapassei em grandeza todos os que viveram antes de mim em Jerusalém, conservando, porém, a minha sabedoria."
+    },
+    {
+     "n": 10,
+     "texto": "Não recusei aos meus olhos coisa alguma de tudo o que eles desejaram; nem proibi ao meu coração que gozasse de todo o prazer, e se deleitasse nas coisas que eu lhe tinha preparado; e julguei que seria esta a minha sorte, o disfrutar do meu trabalho."
+    },
+    {
+     "n": 11,
+     "texto": "Depois, refletindo em todas as obras que as minhas mãos tinham feito, e nos trabalhos em que eu debalde tinha suado, vi em tudo vaidade e aflição de espírito (reconheci) que nada havia de proveito debaixo do sol."
+    },
+    {
+     "n": 12,
+     "texto": "Passei à contemplação da sabedoria, dos desvarios, e da loucura. Qual é o homem que virá depois do rei, que há muito tempo foi designado?"
+    },
+    {
+     "n": 13,
+     "texto": "E reconheci que a sabedoria leva tanta vantagem sobre a loucura, quanta a luz sobre as trevas."
+    },
+    {
+     "n": 14,
+     "texto": "Os olhos do sábio estão na sua cabeça; o Insensato anda nas trevas."
+    },
+    {
+     "n": 15,
+     "texto": "Todavia reconheci que ambos têm a mesma sorte e disse dentro no meu coração; Se eu e o insensato devemos ter a mesma sorte, igualmente, de que me serve toda a minha sabedoria? E adverti que também isto era vaidade."
+    },
+    {
+     "n": 16,
+     "texto": "Porque a memória do sábio, do mesmo modo que a do Insensato, não será eterna, e os tempos futuros sepultarão tudo igualmente no esquecimento. Tanto morre o sábio como ignorante."
+    },
+    {
+     "n": 17,
+     "texto": "E por isso a minha vida se me tornou fastidiosa, vendo que tudo é mau debaixo do sol, que tudo é vaidade e aflição de espírito."
+    },
+    {
+     "n": 18,
+     "texto": "Em consequência disto detestei toda aquela aplicação, com que eu tinha trabalhado tanto debaixo do sol, porque tudo hei-de deixar ao que vier depois de mim."
+    },
+    {
+     "n": 19,
+     "texto": "E quem pode saber se esse será sábio ou insensato? Contudo será senhor dos meus trabalhos, que me custaram cuidados e sabedoria."
+    },
+    {
+     "n": 20,
+     "texto": "Por este motivo dei de mão a todas estas coisas, e o meu coração renunciou a afadigar-se mais por nada deste mundo."
+    },
+    {
+     "n": 21,
+     "texto": "Com efeito, que um homem trabalhe com sabedoria, ciência e feliz êxito, para deixar o fruto do seu trabalho a outro que nenhuma colaboração prestou, é uma coisa vã e uma grande desgraça."
+    },
+    {
+     "n": 22,
+     "texto": "Que proveito tirará o homem de todo o seu trabalho e aflição de espírito, com que é atormentado debaixo do sol?"
+    },
+    {
+     "n": 23,
+     "texto": "Todos os seus dias são cheios de dores e de amarguras, e nem de noite descansa o seu coração. E não é isto uma vaidade (ou miséria)?"
+    },
+    {
+     "n": 24,
+     "texto": "Nada há melhor para o homem que comer e beber e gozar o bem-estar, fruto do seu trabalho. Mas também isto vem da mão de Deus."
+    },
+    {
+     "n": 25,
+     "texto": "Quem, com efeito, pode comer e gozar bem-estar sem ele? (E todavia sou infeliz)."
+    },
+    {
+     "n": 26,
+     "texto": "Ele (Deus) ao homem que lhe é agradável, dá sabedoria, e ciência e alegria; mas ao pecador dá aflição e cuidado de recolher e acumular bens, para os deixar a quem Deus quiser. E também isto é vaidade e tormento do espírito."
+    }
+   ]
+  },
+  {
+   "capitulo": 3,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Todas as coisas têm o seu tempo, todas elas passam debaixo do céu segundo o termo que a cada uma foi prescrito."
+    },
+    {
+     "n": 2,
+     "texto": "Há tempo de nascer, e tempo de morrer. Há tempo de plantar, e tempo de arrancar o que se plantou."
+    },
+    {
+     "n": 3,
+     "texto": "Há tempo de matar, e tempo de sarar. Há tempo de destruir, e tempo de edificar."
+    },
+    {
+     "n": 4,
+     "texto": "Há tempo de chorar, e tempo de rir. Há tempo de se afligir, e tempo de dançar."
+    },
+    {
+     "n": 5,
+     "texto": "Há tempo de espalhar pedras, e tempo de as ajuntar. Há tempo de dar abraços, e tempo de se afastar deles."
+    },
+    {
+     "n": 6,
+     "texto": "Há tempo de adquirir, e tempo de perder. Há tempo de guardar, e tempo de lançar fora."
+    },
+    {
+     "n": 7,
+     "texto": "Há tempo de rasgar, e tempo de coser. Há tempo de calar, e tempo de falar."
+    },
+    {
+     "n": 8,
+     "texto": "Há tempo de amor, e tempo de ódio. Há tempo de guerra, e tempo de paz."
+    },
+    {
+     "n": 9,
+     "texto": "Que proveito tira o homem de todo o seu trabalho (realizado sem Deus)"
+    },
+    {
+     "n": 10,
+     "texto": "Eu vi o trabalho penoso que Deus deu aos filhos dos homens, para que sejam atormentados por ele."
+    },
+    {
+     "n": 11,
+     "texto": "Todas as coisas que Deus fez são boas, no seu tempo. Além disso, pôs no seu coração a duração inteira, sem que ninguém possa compreender a obra divina, dum extremo ao outro."
+    },
+    {
+     "n": 12,
+     "texto": "E eu reconheci que não havia nada melhor, do que alegrar-se o homem, e fazer o bem, enquanto lhe dura a vida."
+    },
+    {
+     "n": 13,
+     "texto": "Todo o homem que come, bebe e tira o bem do seu trabalho, recebe isto por um dom de Deus."
+    },
+    {
+     "n": 14,
+     "texto": "Aprendi também que todas as obras que Deus faz duram perpetuamente; nós não lhes podemos acrescentar nem tirar nada: Deus procede assim para que seja temido."
+    },
+    {
+     "n": 15,
+     "texto": "O que foi feito, é o que existe; as coisas que hão-de ser, já foram; Deus faz voltar aquilo que passou."
+    },
+    {
+     "n": 16,
+     "texto": "Eu vi debaixo do sol a injustiça no lugar do direito, e a iniquidade no lugar da justiça."
+    },
+    {
+     "n": 17,
+     "texto": "E disse no meu coração: Deus (um dia) julgará o justo e o ímpio, porque há um tempo para todas as coisas e para todas as obras."
+    },
+    {
+     "n": 18,
+     "texto": "Eu disse no meu coração acerca dos filhos dos homens, que Deus os prova e lhes mostra que são semelhantes aos brutos."
+    },
+    {
+     "n": 19,
+     "texto": "Por isso os homens morrem como os brutos, e (em ter que morrer) é igual a condição de uns e outros; como morre o homem, assim morrem também os brutos; todos têm o mesmo sopro (de vida), e o homem não tem nada de mais do que o bruto; tudo é vaidade."
+    },
+    {
+     "n": 20,
+     "texto": "E todos vão parar a um mesmo lugar. De terra foram feitos e à terra voltam."
+    },
+    {
+     "n": 21,
+     "texto": "Quem sabe se o sopro de vida dos filhos dos homens subirá às alturas, e se o sopro de vida dos brutos descerá ao fundo, à terra?"
+    },
+    {
+     "n": 22,
+     "texto": "E reconheci que nada havia melhor do que alegrar-se o homem nas suas obras, e que esta era a parte que lhe cabia. Porque, quem o poderá pôr em estado de conhecer o que há-de acontecer depois dele?"
+    }
+   ]
+  },
+  {
+   "capitulo": 4,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Pus-me então a considerar todas as opressões que se cometem debaixo do sol, as lágrimas dos inocentes, que ninguém consola. Os seus opressores exercem sobre eles violência, e não há quem os conforte."
+    },
+    {
+     "n": 2,
+     "texto": "(À vista disto), felicitei mais os mortos do que os vivos,"
+    },
+    {
+     "n": 3,
+     "texto": "e considerei mais feliz do que uns e outros aquele que ainda não nasceu,,e que não viu os males que se fazem debaixo do sol."
+    },
+    {
+     "n": 4,
+     "texto": "Vi também que todo o trabalho e perícia numa obra, outra coisa não são que emulação de um homem em relação ao seu próximo; nisto há também vaidade e aflição de espírito."
+    },
+    {
+     "n": 5,
+     "texto": "O insensato cruza as mãos é come a sua própria carne, dizendo:"
+    },
+    {
+     "n": 6,
+     "texto": "Mais vale um punhadinho com descanso, do que ambas as mãos cheias com trabalho e aflição do espírito."
+    },
+    {
+     "n": 7,
+     "texto": "Tornando a considerar, encontrei outra vaidade debaixo do sol:"
+    },
+    {
+     "n": 8,
+     "texto": "Há um homem que é só, não tem ninguém consigo, nem filho nem irmão; todavia não cessa de trabalhar, nem os seus olhos se fartam de riquezas, (e não faz esta reflexão): Para quem trabalho eu, e me privo destes bens? Nisto há vaidade e trabalho ingrato."
+    },
+    {
+     "n": 9,
+     "texto": "Melhor é estarem dois juntos, do que um só, porque têm a vantagem da sua sociedade."
+    },
+    {
+     "n": 10,
+     "texto": "Se um vai a cair, o outro o sustentará. Ai do que está só, porque, quando cair, não tem quem o levante!"
+    },
+    {
+     "n": 11,
+     "texto": "Da mesma forma, se dormirem dois juntos, aquecer-se-ão mutuamente, mas um só como se há-de aquecer?"
+    },
+    {
+     "n": 12,
+     "texto": "Se um dominar outro que está sozinho, dois resistem-lhe; o cordel triplicado dificultosamente se quebra."
+    },
+    {
+     "n": 13,
+     "texto": "Vale mais um jovem pobre, mas sábio, do que um rei velho e insensato, que já não sabe escutar conselhos,"
+    },
+    {
+     "n": 14,
+     "texto": "Aquele poderá sair, mesmo do cárcere e dos ferros, para ser rei. e outro que nasceu rei acaba na miséria."
+    },
+    {
+     "n": 15,
+     "texto": "Eu vi todos os viventes, que andam debaixo do sol, com o jovem (príncipe) que se elevava a ocupar o lugar (do velho rei)."
+    },
+    {
+     "n": 16,
+     "texto": "Todos aqueles, à frente dos quais ele estava, (e o encheram de aplausos) eram um povo infinito em número. Contudo os descendentes (desse povo) não se hão-de regozijar nele; até isto é vaidade e aflição de espírito."
+    },
+    {
+     "n": 17,
+     "texto": "Vê onde pões o pé, quando entras na casa de Deus. Aproximar-se, docilmente, para escutar, é muito melhor do que oferecer vítimas à maneira dos insensatos, que só sabem fazer mal."
+    }
+   ]
+  },
+  {
+   "capitulo": 5,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Não digas nada inconsideradamente, nem o teu coração se apresse a proferir palavras diante de Deus, porque Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras."
+    },
+    {
+     "n": 2,
+     "texto": "As muitas ocupações produzem sonhos (molestos), e do muito falar nascem os despropósitos."
+    },
+    {
+     "n": 3,
+     "texto": "Se fizeste algum voto a Deus, trata de o cumprir sem demora, porque lhe desagrada a promessa infiel e impensada; mas cumpre tudo o que tiveres prometido."
+    },
+    {
+     "n": 4,
+     "texto": "É melhor não fazer votos do que, depois de os fazer, não os cumprir."
+    },
+    {
+     "n": 5,
+     "texto": "Não permitas à tua língua fazer pecar a tua carne (a tua pessoa), nem digas ao sacerdote que foi uma inadvertência, para que não suceda que Deus, irado contra as tuas palavras, dissipe as obras das tuas mãos."
+    },
+    {
+     "n": 6,
+     "texto": "Dos muitos cuidados nascem os sonhos e das muitas palavras os despropósitos."
+    },
+    {
+     "n": 7,
+     "texto": "Se vires a opressão dos pobres e a violação do direito e da justiça, nalguma província, não te admires, porque o que está alto tem acima de si outro mais alto, e sobre estes há ainda outros mais elevados;"
+    },
+    {
+     "n": 8,
+     "texto": "e há além disso um rei que impera sobre toda a terra que lhe está sujeita."
+    },
+    {
+     "n": 9,
+     "texto": "O que ama o dinheiro, jamais se fartará de dinheiro, e o que ama (cegamente) as riquezas, não tirará delas fruto. Logo também isto é vaidade."
+    },
+    {
+     "n": 10,
+     "texto": "Onde se multiplicam os bens, multiplicam-se também aqueles que os comem. E de que servem eles a quem os possui, senão para os ver com seus olhos?"
+    },
+    {
+     "n": 11,
+     "texto": "O sono é doce para o trabalhador, quer ele coma pouco quer muito, porém a fartura do rico não o deixa dormir."
+    },
+    {
+     "n": 12,
+     "texto": "Ainda há outra dolorosíssima miséria, que eu vi debaixo do sol: as riquezas conservadas para ruína do seu dono."
+    },
+    {
+     "n": 13,
+     "texto": "Perdem-se essas riquezas por um mau negócio, e, se ele tiver então um filho nada lhe fica nas suas mãos."
+    },
+    {
+     "n": 14,
+     "texto": "Do modo que ele saiu nu do ventre de sua mãe, assim mesmo sairá desta vida, não levará nada consigo do seu trabalho."
+    },
+    {
+     "n": 15,
+     "texto": "Sim, é um triste mal que um (homem) vá como veio. De que lhe serve ter trabalhado para o vento?"
+    },
+    {
+     "n": 16,
+     "texto": "Todos os dias da sua vida comeu nas trevas (do infortúnio), no meio de muitos cuidados, em miséria e tristeza."
+    },
+    {
+     "n": 17,
+     "texto": "Pareceu-me, pois, bem que o homem coma e beba (sobriamente), e colha com alegria o fruto do seu trabalho com que se afadiga debaixo do Sol durante o número dos dias da vida, que Deus lhe dá; esta é a sua parte."
+    },
+    {
+     "n": 18,
+     "texto": "Quando um homem recebe de Deus riquezas e bens, e a possibilidade de comer deles, disfrutar a sua parte e viver alegre no seu trabalho, (tudo) isto é um dom de Deus."
+    },
+    {
+     "n": 19,
+     "texto": "Não terá que pensar muito nos dias da sua vida, visto que Deus ocupa de delícias o seu coração."
+    }
+   ]
+  },
+  {
+   "capitulo": 6,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Há ainda outro mal que eu tenho visto debaixo do sol, e que pesa grandemente sobre o homem:"
+    },
+    {
+     "n": 2,
+     "texto": "Uma pessoa a quem Deus deu riquezas, bens e honras, a quem nada falta de quantas coisas deseja, mas a quem Deus não concedeu faculdade para comer de tudo isso, porque virá um estranho que há-de devorar tudo; isto é uma vaidade e uma grande miséria."
+    },
+    {
+     "n": 3,
+     "texto": "Se um homem tiver um cento de filhos, se viver muitos anos, e contar numerosos dias de vida, e a sua alma se não utilizar dos bens que possui, e se vier a ser privado de sepultura, deste homem não duvido afirmar que um aborto vale mais do que ele."
+    },
+    {
+     "n": 4,
+     "texto": "Com efeito, o aborto veio ao mundo debalde, e vai para as trevas (do sepulcro), e o seu nome ficará sepultado no esquecimento,"
+    },
+    {
+     "n": 5,
+     "texto": "sem ter visto nem conhecido o sol. Mais vale a sua sorte que a deste homem."
+    },
+    {
+     "n": 6,
+     "texto": "(Porém o avarento), ainda que vivesse dois mil anos, se não gozou dos seus bens, porventura não irá tudo (com ele) para o mesmo lugar (que é o túmulo)?"
+    },
+    {
+     "n": 7,
+     "texto": "Todo o trabalho do homem é para a sua boca, mas as suas aspirações não se satisfazem."
+    },
+    {
+     "n": 8,
+     "texto": "Qual é a vantagem do sábio sobre o insensato? Qual é a do pobre, que se sabe conduzir na vida?"
+    },
+    {
+     "n": 9,
+     "texto": "Melhor é ter diante dos olhos o que se há-de desejar, do que desejar o que se ignora. Mas também isto é vaidade e aflição de espírito."
+    },
+    {
+     "n": 10,
+     "texto": "Aquele que há-de ser, foi já chamado pelo seu nome; sabe-se que ele é homem, e que não pode disputar em juízo contra quem é mais forte do que ele."
+    },
+    {
+     "n": 11,
+     "texto": "Onde há muitas palavras, há muita vaidade. Que aproveita o homem com isso?"
+    }
+   ]
+  },
+  {
+   "capitulo": 7,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Quem sabe o que é bom para o homem na vida. durante os dias da sua vida de vaidade, que passa como a sombra? Ou quem lhe poderá mostrar o que está para suceder depois dele debaixo do sol?"
+    },
+    {
+     "n": 2,
+     "texto": "É melhor o bom nome do que os perfumes preciosos, e o dia da morte (do justo) do que o dia do nascimento."
+    },
+    {
+     "n": 3,
+     "texto": "É melhor ir a uma casa que está de luto, do que a uma casa de banquete, porque naquela recorda-se (com proveito) o fim de todos os homens, e o que está vivo considera (indo lá) no que (um dia) lhe há-de acontecer."
+    },
+    {
+     "n": 4,
+     "texto": "É melhor a tristeza do que o riso, porque o rosto triste faz bem ao coração."
+    },
+    {
+     "n": 5,
+     "texto": "(E assim) o coração dos sábios está na casa de luto, e o coração dos insensatos na casa de alegria (frívola)"
+    },
+    {
+     "n": 6,
+     "texto": "É melhor ser repreendido pelo sábio, do que ouvir o canto (de adulação) dos insensatos."
+    },
+    {
+     "n": 7,
+     "texto": "Com efeito, como o crepitar dos espinhos que ardem debaixo de uma panela, assim é o riso do Insensato; mas também isto é vaidade."
+    },
+    {
+     "n": 8,
+     "texto": "A opressão pode enlouquecer o sábio, e os presentes corrompem o coração."
+    },
+    {
+     "n": 9,
+     "texto": "É melhor o fim duma coisa do que o princípio. É melhor o homem paciente, do que o arrogante."
+    },
+    {
+     "n": 10,
+     "texto": "Não sejas fácil em te irar, porque a ira repousa no coração do insensato."
+    },
+    {
+     "n": 11,
+     "texto": "Não digas: Donde vem que os tempos passados foram melhores que os de agora? Semelhante pergunta não é inspirada pela sabedoria."
+    },
+    {
+     "n": 12,
+     "texto": "A sabedoria com riqueza é útil, e aproveita aos que veem o sol."
+    },
+    {
+     "n": 13,
+     "texto": "Porque, assim como a sabedoria protege, assim também protege o dinheiro; mas a sabedoria tem a vantagem de dar a vida (sobrenatural) ao seu possuidor."
+    },
+    {
+     "n": 14,
+     "texto": "Considera as obras de Deus: quem poderá endireitar o que ele fez curvado?"
+    },
+    {
+     "n": 15,
+     "texto": "Goza dos bens no dia bom, reflete no dia mau, porque Deus, assim como fez este, assim também fez aquele de forma que o homem não descubra o que há-de acontecer."
+    },
+    {
+     "n": 16,
+     "texto": "Eu também vi isto nos dias da minha vaidade: um justo que perece na sua justiça, e um ímpio que vive muito tempo na sua malícia."
+    },
+    {
+     "n": 17,
+     "texto": "Não sejas demasiado justo nem demasiado sábio; pois, para que te queres arruinar?"
+    },
+    {
+     "n": 18,
+     "texto": "Não faças muito mal e não sejas insensato, para que não venhas a morrer antes do tempo."
+    },
+    {
+     "n": 19,
+     "texto": "Bom é que tomes conta disto e não ponhas de lado aquilo, porque o que teme a Deus, nada descura."
+    },
+    {
+     "n": 20,
+     "texto": "A sabedoria fez o sábio mais forte do que dez príncipes de uma cidade."
+    },
+    {
+     "n": 21,
+     "texto": "Não há homem justo sobre a terra, que faça o bem e que não peque."
+    },
+    {
+     "n": 22,
+     "texto": "Não inclines o teu coração a ouvir todas palavras que se dizem, para que não ouças talvez o teu servo dizer mal de ti."
+    },
+    {
+     "n": 23,
+     "texto": "A tua consciência sabe que também tu muitas vezes tens dito mal dos outros."
+    },
+    {
+     "n": 24,
+     "texto": "Tudo isto quis buscar na sabedoria. Eu disse: \"Far-me-ei sábio\", — mas a sabedoria está longe de mim."
+    },
+    {
+     "n": 25,
+     "texto": "Continua distante o que estava distante, e profundo, o profundo: quem o poderá sondar?"
+    },
+    {
+     "n": 26,
+     "texto": "Pus-me a explorar e buscar, com a minha mente, a sabedoria e a razão das coisas, e reconheci que a maldade é uma demência, e que uma conduta insensata é um delírio."
+    },
+    {
+     "n": 27,
+     "texto": "Achei que é mais amargosa do que a morte a mulher (corrompida), a qual é um laço de caçadores, sendo o seu coração uma rede, e as suas mãos umas cadeias. Aquele que agrada a Deus, fugirá dela; o que, porém, é pecador, será apanhado por ela."
+    },
+    {
+     "n": 28,
+     "texto": "Eis o que eu achei, diz o Eclesiaste, depois de ter conferido uma coisa com outra, para encontrar a razão."
+    },
+    {
+     "n": 29,
+     "texto": "O que, porém, a minha alma ainda busca, sem ter encontrado (é o seguinte): Entre mil homens achei um (digno deste nome), e entre todas as mulheres nem uma só achei."
+    },
+    {
+     "n": 30,
+     "texto": "O que eu unicamente achei foi que Deus criou o homem reto, e que ele mesmo se meteu em infinitas questões (e perigos). Quem é como o sábio? E quem conhece a explicação das coisas?"
+    }
+   ]
+  },
+  {
+   "capitulo": 8,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "A sabedoria do homem reluz no seu rosto, e suaviza a rudeza da sua face."
+    },
+    {
+     "n": 2,
+     "texto": "(Digo-te): Observa as ordens do rei, e isto por causa do juramento feito a Deus."
+    },
+    {
+     "n": 3,
+     "texto": "Não te apresses a sair de diante da sua face, e não persistas numa obra que lhe desagrada, porque ele fará tudo o que quiser."
+    },
+    {
+     "n": 4,
+     "texto": "A sua palavra é cheia de poder, e ninguém lhe pode dizer: Por que fazes isto assim?"
+    },
+    {
+     "n": 5,
+     "texto": "Aquele que guarda o preceito, não experimentará mal algum. O coração do sábio conhece o tempo e o julgamento."
+    },
+    {
+     "n": 6,
+     "texto": "Todas as coisas têm o seu tempo e o seu julgamento, e é grande a aflição que pesa sobre o homem,"
+    },
+    {
+     "n": 7,
+     "texto": "por ignorar as coisas passadas, e estar na impossibilidade de receber qualquer nova do futuro."
+    },
+    {
+     "n": 8,
+     "texto": "Não está na mão do homem reter o seu espírito (vital), nem tem poder sobre o dia da morte, nem se lhe dão tréguas na guerra que o ameaça, nem ao ímpio o salvará dela a sua impiedade."
+    },
+    {
+     "n": 9,
+     "texto": "Todas estas coisas considerei, aplicando o meu coração a meditar todas as obras que se fazem debaixo do sol, num tempo em que um homem domina outro homem para desgraça dele."
+    },
+    {
+     "n": 10,
+     "texto": "Vi os maus receberem sepultura (pomposa) e gozar do repouso, enquanto os que tinham feito o bem, iam para longe do lugar santo e eram esquecidos na cidade. Mas também isto é vaidade."
+    },
+    {
+     "n": 11,
+     "texto": "Pelo facto de não ser proferida logo sentença contra os maus, o coração dos filhos dos homens enche-se de desejos de fazer o mal."
+    },
+    {
+     "n": 12,
+     "texto": "Todavia, posto que o pecador cometa cem vezes o mal, e prolongue os seus dias, eu tenho conhecido que serão felizes os que temem a Deus e que respeitam a sua face."
+    },
+    {
+     "n": 13,
+     "texto": "A felicidade não é para o mau; como a sombra, não terá largos dias de vida, porque não teme ao Senhor."
+    },
+    {
+     "n": 14,
+     "texto": "Ainda há uma outra vaidade sobre a terra: há justos que sofrem males, como se eles tivessem feito obras de ímpios; e há ímpios que vivem tão seguros, como se tivessem feito ações de justos. Mas eu creio que também isto é uma coisa muito vã."
+    },
+    {
+     "n": 15,
+     "texto": "Portanto louvei a alegria (do justo), visto não ter o homem debaixo do sol outro bem, senão comer, beber e alegrar-se; é isto que o acompanha no seu trabalho, durante os dias de vida, que Deus lhe dá debaixo do sol."
+    },
+    {
+     "n": 16,
+     "texto": "Quando apliquei o meu coração a conhecer a sabedoria e a considerar o trabalho que se faz sobre a terra há homens que, nem de dia nem de noite, deixam ver o sono aos seus olhos"
+    },
+    {
+     "n": 17,
+     "texto": "vi todas as obras de Deus (e notei) que o homem não pode descobrir as obras que se fazem debaixo do sol. Por mais que o homem se afadigue a procurar, não encontra; até o sábio, se pretender conhecer, não conseguirá descobrir."
+    }
+   ]
+  },
+  {
+   "capitulo": 9,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Resolvi todas estas coisas no meu coração, para diligentemente as entender: os justos e sábios, com as suas obras, estão na mão de Deus; o homem não sabe se é digno de amor, se de ódio: tudo está diante deles,"
+    },
+    {
+     "n": 2,
+     "texto": "tudo acontece igualmente a todos, (havendo) a mesma sorte para o justo e para o ímpio, para o bom e puro e para o impuro, para o que oferece sacrifícios e para o que os não oferece. O bom é tratado como o pecador; o perjuro como aquele que jura verdade."
+    },
+    {
+     "n": 3,
+     "texto": "Isto é o que há de pior entre tudo o que se passa debaixo do sol; que haja para todos a mesma sorte; daqui vem que os corações dos filhos dos homens se enchem de malícia e que a loucura habita no seu coração, durante a vida; depois disto, (serão conduzidos) à habitação dos mortos."
+    },
+    {
+     "n": 4,
+     "texto": "Enquanto se vive, há esperança. Mais vale um cão vivo, do que um leão morto."
+    },
+    {
+     "n": 5,
+     "texto": "Os que estão vivos sabem que hão-de morrer, porém, os mortos não sabem nada, nem recebem mais salário porque a sua memória ficou entregue ao esquecimento."
+    },
+    {
+     "n": 6,
+     "texto": "O amor, o ódio e a inveja pereceram juntamente com eles; não têm mais parte alguma no que se faz debaixo do sol."
+    },
+    {
+     "n": 7,
+     "texto": "Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho, porque a Deus agradam as tuas obras."
+    },
+    {
+     "n": 8,
+     "texto": "Os teus vestidos sejam em todo o tempo brancos e não falte o óleo perfumado que unja a tua cabeça."
+    },
+    {
+     "n": 9,
+     "texto": "Goza da vida, com tua amada companheira, durante todos os dias da tua vida fugaz, que (Deus) te dá debaixo do sol durante todo o tempo da tua vaidade (vida frágil), porque esta é a tua parte na vida e no trabalho com que te afadigas debaixo do sol."
+    },
+    {
+     "n": 10,
+     "texto": "Faze com presteza tudo quanto pode fazer a tua mão, porque na sepultura, para onde te precipitas, não há nem obra, nem razão, nem ciência, nem sabedoria."
+    },
+    {
+     "n": 11,
+     "texto": "Voltei-me e vi que debaixo do sol a corrida não é para os velozes, nem a guerra para os fortes, nem o pão para os inteligentes, nem as riquezas para os entendidos, nem o favor para os sábios; o tempo e o acaso em tudo se misturam"
+    },
+    {
+     "n": 12,
+     "texto": "O homem não sabe que fim será o seu: como os peixes são apanhados no anzol, e as aves caem no laço, assim os homens são surpreendidos pela adversidade, quando ela der sobre eles de improviso."
+    },
+    {
+     "n": 13,
+     "texto": "Um outro facto observei sob o sol, que foi para mim uma grande lição:"
+    },
+    {
+     "n": 14,
+     "texto": "Havia uma pequena cidade, e nela se achavam poucos homens; foi contra ela um grande rei, bloqueou-a e levantou ao redor altas torres."
+    },
+    {
+     "n": 15,
+     "texto": "Ora encontrava-se nela um homem pobre e sábio que livrou a cidade pela sua sabedoria. E ninguém depois disto se lembrou mais daquele homem pobre."
+    },
+    {
+     "n": 16,
+     "texto": "Então disse comigo: a sabedoria vale mais do que a fortaleza, mas é desprezada a sabedoria do pobre, e não são ouvidas as suas palavras."
+    },
+    {
+     "n": 17,
+     "texto": "As palavras dos sábios, (proferidas) com calma, são mais ouvidas que o clamor do chefe entre os insensatos."
+    },
+    {
+     "n": 18,
+     "texto": "Vale mais a sabedoria, do que as armas da guerra. Uma só falta pode destruir muito bem."
+    }
+   ]
+  },
+  {
+   "capitulo": 10,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "A mosca que morre no unguento do perfumista infeta-o e corrompe-o. Um pouco de insensatez estraga a sabedoria e a glória (mais brilhante)."
+    },
+    {
+     "n": 2,
+     "texto": "O coração do sábio está na sua mão direita, e o coração do insensato na sua esquerda."
+    },
+    {
+     "n": 3,
+     "texto": "O Insensato, mal se põe a caminho (mostra que) lhe falta o senso, e todos dizem: É um louco."
+    },
+    {
+     "n": 4,
+     "texto": "Se a cólera do príncipe se elevar contra ti, não abandones o teu posto, porque a calma evita grandes males."
+    },
+    {
+     "n": 5,
+     "texto": "Há um mal, que eu vi debaixo do sol, como derivado dum engano do príncipe:"
+    },
+    {
+     "n": 6,
+     "texto": "o insensato elevado a uma sublime dignidade, e os ricos (em prudência) postos em baixo."
+    },
+    {
+     "n": 7,
+     "texto": "Eu vi escravos a cavalo, e príncipes andando a pé sobre a terra, como escravos."
+    },
+    {
+     "n": 8,
+     "texto": "Aquele que abriu uma cova (para outro lá cair) cairá nela; e o que desfaz (por maldade) uma parede, mordê-lo-á a cobra."
+    },
+    {
+     "n": 9,
+     "texto": "Aquele que transporta pedras será maltratado por elas, e o que racha lenha será ferido pelas lascas."
+    },
+    {
+     "n": 10,
+     "texto": "Se o ferro estiver embotado, e não for a amolar, é preciso redobrar de esforços, mas a sabedoria é preferível para o bom êxito,"
+    },
+    {
+     "n": 11,
+     "texto": "Se a serpente morder, por falta de encantamento nenhum proveito há para o encantador (em saber encantar)."
+    },
+    {
+     "n": 12,
+     "texto": "As palavras que saem da boca do sábio são cheias de graça; os lábios, porém, do insensato perdê-lo-ão."
+    },
+    {
+     "n": 13,
+     "texto": "As suas primeiras palavras são uma estultícia e as últimas que lhe saem da boca, são loucura maligna."
+    },
+    {
+     "n": 14,
+     "texto": "O insensato multiplica as palavras. O homem ignora o que houve antes dele; e quem lhe poderá indicar o que será depois?"
+    },
+    {
+     "n": 15,
+     "texto": "O trabalho dos insensatos aflige-os; nem sequer sabem (o caminho para ir) à cidade."
+    },
+    {
+     "n": 16,
+     "texto": "Desgraçada de ti, terra, cujo rei é um menino (que não sabe governar), e cujos príncipes comem desde manhã (em orgias)."
+    },
+    {
+     "n": 17,
+     "texto": "Ditosa a terra, cujo rei é de uma família ilustre, e cujos príncipes comem a seu tempo para se nutrirem, e não por prazer."
+    },
+    {
+     "n": 18,
+     "texto": "Pela preguiça (em fazer reparações) se irá abatendo o madeiramento do teto, e pela incúria das mãos virá a chover em toda a casa."
+    },
+    {
+     "n": 19,
+     "texto": "Fazem-se festins para haver satisfação; o vinho alegra a vida e o dinheiro serve para tudo."
+    },
+    {
+     "n": 20,
+     "texto": "Não digas mal do rei, nem mesmo no teu pensamento, e não fales mal do rico, nem mesmo no retiro do teu quarto, porque as aves do céu levarão a tua voz, e os pássaros publicarão as tuas palavras."
+    }
+   ]
+  },
+  {
+   "capitulo": 11,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás."
+    },
+    {
+     "n": 2,
+     "texto": "Reparte dele com sete e mesmo com oito (ou mais pessoas), porque não sabes o mal que pode vir sobre a terra."
+    },
+    {
+     "n": 3,
+     "texto": "Quando as nuvens estiverem carregadas, derramarão chuva sobre a terra. Se a árvore cair para a parte do Meio-dia, ou para a do norte, onde cair, aí ficará."
+    },
+    {
+     "n": 4,
+     "texto": "O que observa o vento não semeia, e o que considera as nuvens nunca segará."
+    },
+    {
+     "n": 5,
+     "texto": "Do mesmo modo que ignoras qual é o caminho do espírito, e de que sorte se formam os ossos no ventre da mulher grávida, assim também não conheces as obras de Deus, que é o criador de todas as coisas."
+    },
+    {
+     "n": 6,
+     "texto": "Semeia de manhã a tua semente, e de tarde não deixes a tua mão repousar, porque não sabes o que terá bom êxito, se isto, se aquilo, ou se ambas as coisas são igualmente boas."
+    },
+    {
+     "n": 7,
+     "texto": "A luz é doce, e é coisa deleitável aos olhos o ver o sol."
+    },
+    {
+     "n": 8,
+     "texto": "Se um homem viver muitos anos, e em todos eles se alegrar, deve lembrar-se dos dias de trevas que serão numerosos: tudo o que sucede é vaidade."
+    },
+    {
+     "n": 9,
+     "texto": "Regozija-te, pois, ó jovem, na tua mocidade, e viva em alegria o teu coração na flor de teus anos; segue as inclinações do teu coração e o que agrada aos teus olhos, mas sabe que Deus te chamará a dar contas de todas estas coisas."
+    },
+    {
+     "n": 10,
+     "texto": "Lança fora do teu coração a tristeza, e afasta o mal da tua carne, porque a juventude e a adolescência são vaidade."
+    }
+   ]
+  },
+  {
+   "capitulo": 12,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "Lembra-te do teu Criador nos dias da tua juventude, antes que venham os dias maus e cheguem os anos, de que tu dirás: Esta idade não me agrada;"
+    },
+    {
+     "n": 2,
+     "texto": "antes que se escureça o sol, e a luz, e a lua, e as estrelas, e voltem as nuvens depois da chuva;"
+    },
+    {
+     "n": 3,
+     "texto": "quando os guardas de tua casa começarem a tremer, e os homens fortes a vergar, quando as que moem deixarem de moer por serem poucas e as que veem pelas janelas principiarem a cobrir-se de trevas;"
+    },
+    {
+     "n": 4,
+     "texto": "quando se fecharem as portas sobre a rua, quando enfraquecer a voz do moinho, quando se calar a voz do pássaro e emudecerem as canções."
+    },
+    {
+     "n": 5,
+     "texto": "Nessa altura (da vida) terão medo também (de subir) aos lugares altos, terão sobressaltos no caminho. A amendoeira florescerá, o gafanhoto engordará, e a alcaparra perderá as suas propriedades, porque o homem irá para a 'casa da sua eternidade, enquanto os carpidores percorrem as ruas."
+    },
+    {
+     "n": 6,
+     "texto": "(Lembra-te do teu Criador) antes que se quebre o cordão de prata e se despedace a lâmpada de oiro, e se parta o cântaro sobre a fonte, e se desfaça a roda sobre a cisterna,"
+    },
+    {
+     "n": 7,
+     "texto": "e o pó volte à terra donde saiu, e o espírito volte para Deus que o deu."
+    },
+    {
+     "n": 8,
+     "texto": "Vaidade de vaidade, disse o Eclesiaste, e tudo é vaidade."
+    },
+    {
+     "n": 9,
+     "texto": "O Eclesiaste. além de ser um sábio, ensinou a ciência ao povo; estudou, investigou e compôs sentenças."
+    },
+    {
+     "n": 10,
+     "texto": "Aplicou-se a encontrar palavras agradáveis e a escrever corretamente palavras de verdade."
+    },
+    {
+     "n": 11,
+     "texto": "As palavras dos sábios são como aguilhões, como cravos profundamente pregados, que, por meio do conselho dos mestres, nos foram comunicados pelo único pastor (que é Deus)."
+    },
+    {
+     "n": 12,
+     "texto": "Não busques, pois, meu filho, mais coisa alguma além destas (verdades). Não se põe termo em multiplicar os livros, e a meditação frequente é aflição da carne."
+    },
+    {
+     "n": 13,
+     "texto": "Ouçamos todos juntos o fim deste discurso: Teme a Deus e observa os seus mandamentos, porque isso é o homem todo."
+    },
+    {
+     "n": 14,
+     "texto": "(Lembremo-nos que) Deus fará dar contas no seu juízo de todas as faltas, mesmo ocultas, de todo o bem e mal que se tiver feito."
+    }
+   ]
+  }
+ ]
+}

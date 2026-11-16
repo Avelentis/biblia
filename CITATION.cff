@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Trabalho derivado de uma obra em domínio público, alterado e corrigido. Se usares esta versão, é obrigatório referenciar a fonte (este repositório)."
+title: "Bíblia Sagrada (Padre Manuel de Matos Soares, 1956), revista e corrigida"
+type: dataset
+authors:
+  - name: "Avelentis"
+repository-code: "https://github.com/Avelentis/biblia"
+url: "https://github.com/Avelentis/biblia"
+license: CC-BY-4.0
+language: por
+keywords:
+  - Bíblia
+  - português
+  - Matos Soares

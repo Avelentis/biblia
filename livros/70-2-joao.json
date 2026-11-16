@@ -1,0 +1,75 @@
+{
+ "titulo": "Bíblia Sagrada",
+ "traducao": "Padre Manuel de Matos Soares",
+ "edicao": "1956",
+ "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
+ "licenca": "CC BY 4.0",
+ "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
+ "atribuicao_obrigatoria": "Bíblia Sagrada, tradução do Padre Manuel de Matos Soares (1956), obra em domínio público alterada e corrigida para ficar atualizada. Fonte: https://github.com/Avelentis/biblia",
+ "url": "https://github.com/Avelentis/biblia",
+ "id": "2jo",
+ "ordem": 70,
+ "nome": "2 João",
+ "abreviatura": "2Jo",
+ "testamento": "NT",
+ "grupo": "Cartas católicas",
+ "capitulos": [
+  {
+   "capitulo": 1,
+   "versiculos": [
+    {
+     "n": 1,
+     "texto": "O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não somente eu, mas também todos os que têm conhecido a verdade —"
+    },
+    {
+     "n": 2,
+     "texto": "por causa da verdade que permanece em nós e que será connosco eternamente."
+    },
+    {
+     "n": 3,
+     "texto": "Connosco serão a graça, a misericórdia, a paz, da parte de Deus Pai, e da de Jesus Cristo, Filho do Pai, em verdade e em caridade."
+    },
+    {
+     "n": 4,
+     "texto": "Muito me alegrei por ter encontrado alguns de teus filhos que seguem o caminho da verdade, segundo o mandamento que recebemos do Pai."
+    },
+    {
+     "n": 5,
+     "texto": "E agora rogo-te, Senhora, não como se te escrevesse um novo mandamento, mas o que tivemos desde o princípio, que nos amemos uns aos outros."
+    },
+    {
+     "n": 6,
+     "texto": "A caridade consiste em que andemos segundo os seus mandamentos. Este é o mandamento, segundo o qual deveis caminhar, como ouvistes desde o princípio."
+    },
+    {
+     "n": 7,
+     "texto": "Porque muitos sedutores se têm levantado no mundo, que não confessam que Jesus Cristo tenha vindo em carne: eis o sedutor e o Anticristo."
+    },
+    {
+     "n": 8,
+     "texto": "Estai alerta sobre vós, para que não percais o fruto de vossos trabalhos, mas recebais uma plena recompensa."
+    },
+    {
+     "n": 9,
+     "texto": "Todo o que se aparta e não permanece na doutrina de Cristo, não tem Deus; o que permanece na doutrina, este tem o Pai e o Filho."
+    },
+    {
+     "n": 10,
+     "texto": "Se alguém vem a vós e não traz esta doutrina, não o recebais em vossa casa, nem o saudeis,"
+    },
+    {
+     "n": 11,
+     "texto": "porque, quem o saúda, participa (em certo modo) das suas obras más."
+    },
+    {
+     "n": 12,
+     "texto": "Embora eu tivesse muitas coisas a escrever-vos, não quis fazê-lo por papel e tinta, porque espero ir ter convosco e falar-vos de viva voz, para que a nossa alegria seja perfeita."
+    },
+    {
+     "n": 13,
+     "texto": "Saúdam-te os filhos de tua irmã Eleita."
+    }
+   ]
+  }
+ ]
+}
