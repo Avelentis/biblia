@@ -27,7 +27,7 @@ O resumo das correções está em [CORRECOES.md](CORRECOES.md).
 
 Esta edição é um **trabalho derivado de uma obra em domínio público**: a Bíblia do Padre Manuel de Matos Soares (1956). O texto foi **alterado e corrigido para ficar atualizado**: novo Acordo Ortográfico, formas de Portugal e correção dos erros da digitalização.
 
-> **Quem quiser usar esta versão tem de referenciar a fonte: este repositório.**
+> **Como esta versão se destina a uso geral e público, quem a quiser usar tem de referenciar a fonte: este repositório.**
 
 ## Ler
 
