@@ -179,8 +179,7 @@
 
 ## Capítulo 11
 
-**1** Desde a aurora, será completamente destruído o rei de Israel.  
-**1** Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.  
+**1** Desde a aurora, será completamente destruído o rei de Israel. Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.  
 **2** Mas, quanto mais os meus profetas os chamaram, tanto mais eles se retiraram da sua presença; sacrificaram aos Baais e queimaram oferendas aos ídolos.  
 **3** Entretanto eu ensinava (os de) Efraim a andar, trazia-os nos meus braços, mas eles não reconheceram que era eu quem cuidava deles.  
 **4** Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira o jugo de cima do pescoço e aproximei-me deles para os nutrir.  

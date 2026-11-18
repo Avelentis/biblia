@@ -66,6 +66,7 @@
 **21** os quais esperam a morte que não vem, que a buscam mais ardentemente que um tesouro,  
 **22** e ficam transportados de alegria quando encontram o sepulcro?  
 **23** (Por que foi dada a vida) a um homem (conto eu) que não sabe o caminho, e a quem Deus cercou completamente?  
+**24** Suspiro em vez de comer, e os meus gemidos derramam-se como águas.  
 **25** O mal que eu temo, acontece-me, o que receio, cai sobre mim.  
 **26** Não tenho paz nem sossego, não tenho repouso, mas apenas perturbação.  
 
@@ -472,6 +473,7 @@
 **9** O seu pé ficará preso pelo laço, ficará fortemente apertado.  
 **10** Está-lhe escondido debaixo da terra o laço, e ao longo da vereda a armadilha,  
 **11** De todas as partes o amedrontarão temores, e lhe enredarão os pés.  
+**12** A fome enfraquecerá a sua robustez, e a perdição o acompanhará.  
 **13** A pele do seu corpo será devorada; o primogénito da morte devorará os seus membros.  
 **14** Será arrancado da sua tenda onde se julgava seguro, e a morte, como um rei, o calcará.  
 **15** Outros - não mais ele - habitarão na sua casa, e sobre a sua lenda se espalhará enxofre.  
@@ -924,9 +926,9 @@
 **15** toda a carne perecera num instante, e o homem voltaria ao pó.  
 **16** Portanto, se tens entendimento, ouve isto, escuta o som das minhas palavras.  
 **17** Acaso poderia governar, aquele que não ama a justiça? Como condenas tu, pois, afoutamente aquele que é sumamente justo?  
+**18** Ele diz a um rei: Malvado! E aos grandes: Celerados!  
 **19** Não faz aceitação da pessoa dos poderosos, não antepõe o rico ao pobre, porque todos são obra das suas mãos.  
 **20** Eles morrerão de improviso, desaparecerão; no meio da noite os povos se sublevarão, e derrubarão o tirano sem esforço.  
-**20** Deus não teme os grandes.  
 **21** Com efeito os olhos de Deus estão Sobre os caminhos dos homens, ele considera todos os seus passos.  
 **22** Não há trevas, e não há sombra de morte, onde possam esconder-se os que praticam a iniquidade.  
 **23** (Deus) não precisa de olhar um homem duas vezes, para o citar a comparecer no seu tribunal.  

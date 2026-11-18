@@ -13,8 +13,7 @@
 **9** A rainha Vasti também deu um banquete às mulheres, no palácio em que o rei Assuero costumava residir.  
 **10** Ao sétimo dia, o rei, quando estava mais alegre pelo calor do vinho, que tinha bebido com excesso, ordenou a Msumau, Bazata, Harbona, Bagata, Abgata, Zetar e Carcas - os sete eunucos que lhe prestavam serviço -  
 **11** que introduzissem à presença do rei a rainha Vasti, com o seu diadema, na cabeça, para que todos os seus povos e grandes da corte vissem a sua beleza, porque era em extremo formosa,  
-**12** O rei, irado com isto, todo transportado em furor,  
-**12** Ela, porém, recusou-se a obedecer à ordem do rei transmitida pelos eunucos.  
+**12** Ela, porém, recusou-se a obedecer à ordem do rei transmitida pelos eunucos. O rei, irado com isto, todo transportado em furor,  
 **13** consultou os sábios, que andavam sempre junto dele, conforme o uso de todos os reis, e por cujo conselho fazia todas as coisas, pois conheciam as leis e costumes dos maiores.  
 **14** (Os primeiros e os mais próximos eram Carasna, Setar, Admata, Tarsis, Mares, Marsana e Mamucan, que eram os sete principais dos Persas e dos Medos, que nunca perdiam o rei de vista e que costumavam ser os primeiros que se sentavam junto dele).  
 **15** (Perguntou-lhes, pois, o rei) a que pena estava sujeita a rainha Vasti, por não ter obedecido à ordem que o rei Assuero lhe tinha intimado por meio dos eunucos.  
