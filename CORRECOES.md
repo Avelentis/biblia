@@ -9,6 +9,7 @@ O texto parte de uma digitalização da Bíblia do Padre Manuel de Matos Soares 
 - **Erros da digitalização**: acentos antigos (`sòmente → somente`, `vêem → veem`), trema (`cinqüenta → cinquenta`), acentos em falta (`discipulos → discípulos`), gralhas (`fllho → filho`, `die Israel → de Israel`) e hífenes soltos.
 - **Remissões para notas** (`(ver nota)`): 1722 foram retiradas, porque as notas não fazem parte do texto digitalizado.
 - **Versículos repetidos**: a fonte repete alguns (por exemplo Js 8,9); fica a cópia corrigida.
+- **Versículos fora do sítio**: em Esd 6 a fonte trazia uma cópia de Esd 4,9–24, que foi retirada (os versículos 6,9–13 continuam em falta na fonte); 1Cr 10,26 passou para 1Cr 11,26; os versículos Est 1,12, Dn 2,28 e Os 11,1, partidos em dois (nos dois primeiros com as metades trocadas), foram reunidos como estão na edição de 1956.
 
 No total: **477 formas diferentes alteradas, em 2 713 ocorrências**. A lista completa, com contagens, está em [docs/ortografia.md](docs/ortografia.md).
 
