@@ -710,6 +710,7 @@
 **16** O povo, respondendo, disse: Longe de nós que abandonemos o Senhor, e sirvamos a deuses estranhos.  
 **17** O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egito, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos.  
 **18** Expulsou todas as nações, o Amorreu, habitante da terra em que entramos. Nós pois serviremos ao Senhor, porque ele é o nosso Deus.  
+**19** Josué disse ao povo: Vós não podereis servir ao Senhor, porque ele é um Deus santo, fortemente zeloso, não perdoará as vossas maldades e pecados.  
 **20** Se abandonardes o Senhor e servirdes a deuses estranhos, ele se voltará contra vós e vos destruirá, depois de vos ter feito bem.  
 **21** O povo disse a Josué: Não será assim como dizes, mas serviremos ao Senhor.  
 **22** Josué disse ao povo: Sois testemunhas de que vós mesmos escolhestes para vós o Senhor, a fim de o servir. Eles responderam: Somos testemunhas.  

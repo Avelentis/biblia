@@ -4,7 +4,7 @@
  "edicao": "1956",
  "lingua": "pt-PT",
  "ortografia": "Acordo Ortográfico de 1990 (norma de Portugal)",
- "versiculos": 35596,
+ "versiculos": 35609,
  "organizacao": "Avelentis",
  "licenca": "CC BY 4.0",
  "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
@@ -27059,6 +27059,10 @@
        "texto": "Expulsou todas as nações, o Amorreu, habitante da terra em que entramos. Nós pois serviremos ao Senhor, porque ele é o nosso Deus."
       },
       {
+       "n": 19,
+       "texto": "Josué disse ao povo: Vós não podereis servir ao Senhor, porque ele é um Deus santo, fortemente zeloso, não perdoará as vossas maldades e pecados."
+      },
+      {
        "n": 20,
        "texto": "Se abandonardes o Senhor e servirdes a deuses estranhos, ele se voltará contra vós e vos destruirá, depois de vos ter feito bem."
       },
@@ -29791,6 +29795,10 @@
       {
        "n": 18,
        "texto": "Vendo pois Noemi que Rute estava firmemente resolvida a ir com ela, não a quis mais contradizer, nem persuadir-lhe que voltasse para os seus."
+      },
+      {
+       "n": 19,
+       "texto": "Partiram juntas e chegaram a Belém. Tendo entrado na cidade, logo correu notícia disso por todos, e as mulheres diziam: Esta é aquela Noemi."
       },
       {
        "n": 20,
@@ -50779,6 +50787,26 @@
        "texto": "Também ordeno como é que se deve proceder com aqueles anciãos dos Judeus, pelo que diz respeito à edificação da casa de Deus: do erário do rei, isto é, dos tributos que pagam as terras de além do rio, pague-se com pontualidade àqueles homens o que for necessário para as despesas, para que não se embarace a obra."
       },
       {
+       "n": 9,
+       "texto": "Sendo necessário, deem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que"
+      },
+      {
+       "n": 10,
+       "texto": "ofereçam sacrifícios de agradável odor ao Deus do céu, e roguem pela vida do rei e de seus filhos."
+      },
+      {
+       "n": 11,
+       "texto": "Além disso, também ordeno que, se alguém contrariar este edito, se arranque um pau de sua casa, se levante ao alto, e seja pregado nele, e a sua casa seja confiscada."
+      },
+      {
+       "n": 12,
+       "texto": "Deus, que estabeleceu o seu nome naquele lugar, dissipe todos os reinos e o povo que estender a sua mão para o contradizer e para destruir aquela casa de Deus, que está em Jerusalém. Eu, Dario, fiz este decreto, e quero que ele seja cumprido pontualmente."
+      },
+      {
+       "n": 13,
+       "texto": "Tatanai, governador do território de além do rio, e Starbuzanai e os seus colegas, conforme o que tinha ordenado o rei Dario, assim o executaram."
+      },
+      {
        "n": 14,
        "texto": "Os anciãos dos Judeus edificavam e eram bem sucedidos, conforme a profecia do profeta Ageu e de Zacarias, filho de Ado; construíram o edifício por mandado do Deus de Israel, e por ordem de Ciro, de Dario e de Artaxerxes, reis dos Persas;"
       },
@@ -54894,6 +54922,10 @@
       {
        "n": 3,
        "texto": "enquanto ele vigiava os que atavam os feixes no campo, deu-lhe o ardor do sol na cabeça, e morreu em Betúlia, sua cidade, onde foi sepultado com seus pais."
+      },
+      {
+       "n": 4,
+       "texto": "Havia já três anos e seis meses que Judit tinha ficado viúva."
       },
       {
        "n": 5,
@@ -63322,6 +63354,10 @@
        "texto": "(Por que foi dada a vida) a um homem (conto eu) que não sabe o caminho, e a quem Deus cercou completamente?"
       },
       {
+       "n": 24,
+       "texto": "Suspiro em vez de comer, e os meus gemidos derramam-se como águas."
+      },
+      {
        "n": 25,
        "texto": "O mal que eu temo, acontece-me, o que receio, cai sobre mim."
       },
@@ -64839,6 +64875,10 @@
       {
        "n": 11,
        "texto": "De todas as partes o amedrontarão temores, e lhe enredarão os pés."
+      },
+      {
+       "n": 12,
+       "texto": "A fome enfraquecerá a sua robustez, e a perdição o acompanhará."
       },
       {
        "n": 13,
@@ -66537,16 +66577,16 @@
        "texto": "Acaso poderia governar, aquele que não ama a justiça? Como condenas tu, pois, afoutamente aquele que é sumamente justo?"
       },
       {
+       "n": 18,
+       "texto": "Ele diz a um rei: Malvado! E aos grandes: Celerados!"
+      },
+      {
        "n": 19,
        "texto": "Não faz aceitação da pessoa dos poderosos, não antepõe o rico ao pobre, porque todos são obra das suas mãos."
       },
       {
        "n": 20,
        "texto": "Eles morrerão de improviso, desaparecerão; no meio da noite os povos se sublevarão, e derrubarão o tirano sem esforço."
-      },
-      {
-       "n": 20,
-       "texto": "Deus não teme os grandes."
       },
       {
        "n": 21,
@@ -97062,6 +97102,10 @@
       {
        "n": 14,
        "texto": "O Senhor disse-me: Do aquilão se espalhará o mal sobre todos os habitantes desta terra."
+      },
+      {
+       "n": 15,
+       "texto": "Com efeito, vou convocar todos os povos dos reinos do aquilão, diz o Senhor, e virão, e porá cada um a sua cadeira à entrada das portas de Jerusalém em volta de todos os seus muros e diante de todas as cidades de Judá."
       },
       {
        "n": 16,
@@ -142489,6 +142533,10 @@
        "texto": "Por isso o enviei mais depressa para que, vendo-o, de novo vos alegreis e eu fique com menor tristeza (sabendo que estais alegres)."
       },
       {
+       "n": 29,
+       "texto": "Recebei-o, pois, com todo o género de alegria no Senhor e tratai com honra tais pessoas (que se sacrificam pelo Evangelho)."
+      },
+      {
        "n": 30,
        "texto": "Efetivamente, pelo serviço de Cristo, chegou às portas da morte, arriscando a própria vida para vos suprir no serviço que vós me não podíeis prestar."
       }
@@ -147892,6 +147940,10 @@
       {
        "n": 2,
        "texto": "Caríssimo, desejo que prosperes em tudo e tenhas saúde, como a tem ditosamente a tua alma."
+      },
+      {
+       "n": 3,
+       "texto": "Alegrei-me muito com a chegada dos irmãos e com o testemunho que deram da tua verdade, isto é, do modo como tu andas na verdade."
       },
       {
        "n": 4,

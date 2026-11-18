@@ -160,6 +160,11 @@
 **6** Agora, pois, Talanai, governador das terras, que estão da banda de além do rio, Starbuzanai, e vossos colegas Afarsaqueus, que viveis da banda de além do rio, retirai-vos dos Judeus.  
 **7** Deixai que prossigam os trabalhos do templo de Deus, e que o governador dos Judeus e os seus anciãos edifiquem aquela casa de Deus no seu lugar.  
 **8** Também ordeno como é que se deve proceder com aqueles anciãos dos Judeus, pelo que diz respeito à edificação da casa de Deus: do erário do rei, isto é, dos tributos que pagam as terras de além do rio, pague-se com pontualidade àqueles homens o que for necessário para as despesas, para que não se embarace a obra.  
+**9** Sendo necessário, deem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que  
+**10** ofereçam sacrifícios de agradável odor ao Deus do céu, e roguem pela vida do rei e de seus filhos.  
+**11** Além disso, também ordeno que, se alguém contrariar este edito, se arranque um pau de sua casa, se levante ao alto, e seja pregado nele, e a sua casa seja confiscada.  
+**12** Deus, que estabeleceu o seu nome naquele lugar, dissipe todos os reinos e o povo que estender a sua mão para o contradizer e para destruir aquela casa de Deus, que está em Jerusalém. Eu, Dario, fiz este decreto, e quero que ele seja cumprido pontualmente.  
+**13** Tatanai, governador do território de além do rio, e Starbuzanai e os seus colegas, conforme o que tinha ordenado o rei Dario, assim o executaram.  
 **14** Os anciãos dos Judeus edificavam e eram bem sucedidos, conforme a profecia do profeta Ageu e de Zacarias, filho de Ado; construíram o edifício por mandado do Deus de Israel, e por ordem de Ciro, de Dario e de Artaxerxes, reis dos Persas;  
 **15** completaram a casa de Deus no dia três do mês de Adar, no sexto ano do reinado do rei Dario.  
 **16** Os filhos de Israel, os sacerdotes, os Levitas e os outros filhos (que tinham voltado) do cativeiro, celebraram a dedicação da casa de Deus com regozijo.  

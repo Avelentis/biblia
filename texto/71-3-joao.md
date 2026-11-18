@@ -4,6 +4,7 @@
 
 **1** O Ancião ao caríssimo Gaio, a quem eu amo na verdade.  
 **2** Caríssimo, desejo que prosperes em tudo e tenhas saúde, como a tem ditosamente a tua alma.  
+**3** Alegrei-me muito com a chegada dos irmãos e com o testemunho que deram da tua verdade, isto é, do modo como tu andas na verdade.  
 **4** Eu não tenho maior alegria do que ouvir dizer que os meus filhos andam no caminho da verdade.  
 **5** Caríssimo, tu procedes fielmente (como bom cristão), em tudo o que fazes com os irmãos, e particularmente com os estrangeiros,  
 **6** os quais deram testemunho da tua caridade diante da Igreja; farás bem em prover às suas viagens de um modo digno de Deus.  

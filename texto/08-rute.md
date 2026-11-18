@@ -20,6 +20,7 @@
 **16** Rute respondeu: Não insistas comigo para que te deixe e me vá, porque para onde tu fores, irei também eu, e onde quer que morares, morarei eu também. O teu povo será o meu povo, e o teu Deus o meu Deus.  
 **17** Na terra que te receber, quando morreres, nessa morrerei eu também e aí terei o meu sepulcro. O Senhor me castigue duramente, se outra coisa, que não for a morte, me separar de ti.  
 **18** Vendo pois Noemi que Rute estava firmemente resolvida a ir com ela, não a quis mais contradizer, nem persuadir-lhe que voltasse para os seus.  
+**19** Partiram juntas e chegaram a Belém. Tendo entrado na cidade, logo correu notícia disso por todos, e as mulheres diziam: Esta é aquela Noemi.  
 **20** Ela disse-lhes: Não me chameis Noemi (isto é, formosa), mas chamai-me Mara (isto é, amarga), porque o Omnipotente me encheu de extrema amargura.  
 **21** Eu sai daqui cheia (de felicidade com meu marido e filhos), e o Senhor fez-me voltar vazia. Por que me chamais pois Noemi, tendo-me o Senhor humilhado, e o Omnipotente afligido?  
 **22** Foi Noemi com Rute Moabita, sua nora, da terra da sua peregrinação, e voltou para Belém, quando se começava a segar as cevadas.  

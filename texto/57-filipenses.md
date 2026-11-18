@@ -63,6 +63,7 @@
 **26** pois que ele desejava, por certo, ver-vos de novo a todos e tinha pena de que tivésseis notícia da sua doença.  
 **27** Com efeito, esteve mortalmente enfermo, mas Deus compadeceu-se dele, e não somente dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.  
 **28** Por isso o enviei mais depressa para que, vendo-o, de novo vos alegreis e eu fique com menor tristeza (sabendo que estais alegres).  
+**29** Recebei-o, pois, com todo o género de alegria no Senhor e tratai com honra tais pessoas (que se sacrificam pelo Evangelho).  
 **30** Efetivamente, pelo serviço de Cristo, chegou às portas da morte, arriscando a própria vida para vos suprir no serviço que vós me não podíeis prestar.  
 
 ## Capítulo 3

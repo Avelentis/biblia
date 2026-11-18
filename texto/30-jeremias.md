@@ -16,6 +16,7 @@
 **12** O Senhor disse-me: Viste bem, porque eu vigiarei sobre a minha palavra para a cumprir.  
 **13** Segunda vez me foi dirigida a palavra do Senhor, a qual dizia: Que vês tu? Respondi: Vejo uma panela a ferver, que vem da banda do aquilão.  
 **14** O Senhor disse-me: Do aquilão se espalhará o mal sobre todos os habitantes desta terra.  
+**15** Com efeito, vou convocar todos os povos dos reinos do aquilão, diz o Senhor, e virão, e porá cada um a sua cadeira à entrada das portas de Jerusalém em volta de todos os seus muros e diante de todas as cidades de Judá.  
 **16** Então pronunciarei contra eles os meus juízos, por causa de todo o mal que fizeram, porque me deixaram, ofereceram libações aos deuses estranhos e adoraram a obra das suas mãos.  
 **17** Tu, pois, cinge os teus rins levanta-te e dize-lhes tudo o que eu te mandar. Não temas diante deles, porque senão farei que temas a sua presença.  
 **18** Efetivamente, estabeleço-te hoje como uma cidade fortificada, como uma coluna de ferro, como um muro de bronze diante de toda esta terra, dos reis de Judá, dos seus príncipes, dos seus sacerdotes e do seu povo.  
