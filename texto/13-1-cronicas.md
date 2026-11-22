@@ -448,7 +448,6 @@
 **12** juntaram-se os mais fortes deles, partiram e tiraram os cadáveres de Saul e dos seus filhos, trouxeram-nos para Jabes, e enterraram os seus ossos debaixo do carvalho que havia em Jabes, e jejuaram sete dias.  
 **13** Morreu Saul por causa das suas iniquidades, por ter desobedecido ao mandamento que o Senhor lhe tinha imposto, e consultado os evocadores dos mortos.  
 **14** Não consultou o Senhor, por isso ele o matou, e transferiu o seu reino para Davide, filho de Isaí.  
-**26** Os mais valentes do exército eram: Asael irmão de Joab, Alcanan de Belém, filho de Dodo.  
 
 ## Capítulo 11
 
@@ -477,6 +476,7 @@
 **23** Matou também um Egípcio, cuja estatura era de cinco côvados, e tinha uma lança como o órgão do tear dos tecelões. Foi contra ele com um pau, tirou-lhe a lança que tinha na mão, e com esta mesma lança o matou.  
 **24** Estas coisas fez Banalaa, filho de Jojada, que era o mais afamado entre os três valentes,  
 **25** o principal entre os trinta; todavia não igualava os três primeiros. Davide o admitiu para seu conselheiro íntimo.  
+**26** Os mais valentes do exército eram: Asael irmão de Joab, Alcanan de Belém, filho de Dodo.  
 **27** Samot de Arori, Heles de Falon,  
 **28** Ira de Técua, filho de Aces, Abiezer de Anatot,  
 **29** Sobocai de Husat, Ilai de Aó,  

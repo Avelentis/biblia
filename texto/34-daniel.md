@@ -53,8 +53,7 @@
 **25** Então Arioc apresentou logo Daniel ao rei e disse-lhe: Encontrei um homem dentre os cativos dos filhos de Judá, que dará ao rei a solução que deseja.  
 **26** O rei respondeu a Daniel, que tinha por nome Baltasar: És, em verdade, capaz de me dizer o que vi em sonho e dar a sua interpretação?  
 **27** Respondendo Daniel ao rei, disse: Os sábios, os magos, os adivinhos, os feiticeiros, não podem descobrir ao rei o mistério que o rei deseja descobrir.  
-**28** O teu sonho e as visões, que a tua cabeça teve no teu leito, são as seguintes:  
-**28** Mas no céu há um Deus que revela os mistérios, o qual mostrou ao rei Nabucodonosor as coisas que hão-de acontecer nos últimos tempos.  
+**28** Mas no céu há um Deus que revela os mistérios, o qual mostrou ao rei Nabucodonosor as coisas que hão-de acontecer nos últimos tempos. O teu sonho e as visões, que a tua cabeça teve no teu leito, são as seguintes:  
 **29** Tu, ó rei, começaste a pensar, estando na tua cama, no que havia de acontecer no futuro, e aquele que revela os mistérios te descobriu as coisas que hão-de vir.  
 **30** A mim também me foi revelado este segredo, não porque a sabedoria, que há em mim, seja maior que a de todos os outros viventes, mas para que ficasse manifesta ao rei a Interpretação do seu sonho, e para que soubesses os pensamentos do teu coração.  
 **31** Tu, ó rei, estavas olhando, e eis (que te apareceu) uma grande estátua; esta estátua grande, dum brilho extraordinário, erguia-se de pé diante de ti, de aspeto aterrador.  
