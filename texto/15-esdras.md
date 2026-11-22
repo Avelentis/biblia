@@ -114,16 +114,16 @@
 **7** No reinado de Artaxerxes, Beselão, Mitridates, Tabeel e os outros, que eram do partido destes, escreveram a Artaxerxes, rei dos Persas. A carta de acusação foi traduzida em arameu e transcrita em caracteres arameus.  
 **8** Reum, governador, e Samsai, secretário, escreveram (sobre as coisas) de Jerusalém uma caria ao rei Artaxerxes, do teor seguinte:  
 **9** Reum, governador, e Samsai, secretário, com os outros seus conselheiros, os Dineus, os Afarsataqueus, os Terfaleus, os Afarseus, os Erqueus, os Babilónios, os Susanequeus, os Dievos, os Elamitas  
-**10** e todos os outros dentre os povos, que o grande e glorioso Asenafar transportou e fez morar em paz nas cidades da Samaria e nas outras províncias da banda de.além do rio, etc....  
+**10** e todos os outros dentre os povos, que o grande e glorioso Asenafar transportou e fez morar em paz nas cidades da Samaria e nas outras províncias da banda de além do rio, etc....  
 **11** Eis a cópia da carta que lhe mandaram: Ao rei Artaxerxes, os teus servos, os homens que habitam da banda de além do rio, etc.  
 **12** Saiba o rei que os Judeus, que saíram de junto de ti para nós, foram para Jerusalém, cidade rebelde e má, a qual reedificam, reconstruindo os seus muros e restaurando os seus fundamentos.  
 **13** Agora, pois, seja notório ao rei que, se esta cidade for reedificada e os seus muros restaurados, não pagarão mais os tributos, nem os impostos, nem direito de passagem, e esta perda se fará sentir no tesouro real.  
 **14** Nós, lembrando-nos do sal do palácio que comemos e julgando que não nos está bem ver desprezado o rei, por isso mandamos avisar o rei,  
 **15** para que examines os livros das histórias de teus predecessores; acharás escrito nos seus anais que esta cidade é uma cidade rebelde e funesta aos reis e às (outras) províncias, e que desde tempos antigos se têm nela excitado revoltas. Por tal motivo a mesma cidade foi já destruída.  
 **16** Nós declaramos ao rei que, se esta cidade for reedificada e os seus muros restaurados, não possuirás as terras da banda de além do rio.  
-**17** O rei respondeu a Reum, governador, e a Samsai, secretário, e aos outros habitantes da Samaria que eram do seu partido, bem como a todos os outros que moravam da banda de além do rio, dizendo; Saúde, etc.  
+**17** O rei respondeu a Reum, governador, e a Samsai, secretário, e aos outros habitantes da Samaria que eram do seu partido, bem como a todos os outros que moravam da banda de além do rio, dizendo: Saúde, etc.  
 **18** A acusação que nos enviastes, foi lida dum modo claro na minha presença.  
-**19** Foi ordenado por mim que se examinassem os anais, e acharam que, desde tempos antigos, esta cidade tem-se revoltado contra os reis. que nela se têm excitado sedições e revoltas.  
+**19** Foi ordenado por mim que se examinassem os anais, e acharam que, desde tempos antigos, esta cidade tem-se revoltado contra os reis, que nela se têm excitado sedições e revoltas.  
 **20** Em Jerusalém houve reis poderosos, senhores de todas as terras que estão da outra banda do rio (Eufrates), os quais recebiam tributos, impostos e direito de passagem.  
 **21** Agora, pois, ouvi o que eu ordeno: Proibi a esses homens que reedifiquem essa cidade, até que eu mande o contrário.  
 **22** Vede, não sejais negligentes em executar esta ordem, não suceda crescer o mal pouco a pouco contra os reis.  
